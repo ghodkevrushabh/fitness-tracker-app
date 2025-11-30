@@ -18,7 +18,7 @@ This app includes a wide range of features to cover all aspects of your daily fi
 
 | Login Page | Steps Dashboard | Running Map |
 |:---:|:---:|:---:|
-| <img src="login.jpg" alt="Login Page" width="200"/> | <img src="dashboard.jpg" alt="Steps Dashboard" width="200"/> | <img src="map_tracking.jpg" alt="Running Map" width="200"/> |
+| <img src="login.jpg" alt="Login Page" width="200"/> | <img src="steps_dashboard.jpg" alt="Steps Dashboard" width="200"/> | <img src="map_tracking.jpg" alt="Running Map" width="200"/> |
 
 | Hydration Tracker | Weight Tracker | Profile |
 |:---:|:---:|:---:|
