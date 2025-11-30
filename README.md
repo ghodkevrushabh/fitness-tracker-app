@@ -30,11 +30,11 @@ This app includes a wide range of features to cover all aspects of your daily fi
 
 ## 🛠️ Tech Stack
 
-* **Language:** [e.g., Flutter / Kotlin / Swift / React Native]
-* **State Management:** [e.g., Provider / Bloc / Redux]
-* **Backend:** [e.g., Firebase / Node.js]
-* **Maps API:** Google Maps API / Mapbox
-* **Local Storage:** [e.g., Hive / SQLite / Room]
+* **Language:** [Kotlin]
+* **Backend:** [Firebase]
+* **Maps API:** Google Maps API 
+* **Local Storage:** [Room]
+* **Cloud Storage:** [Firebase Firestore]
 
 ## 📥 Installation
 
