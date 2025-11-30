@@ -28,35 +28,33 @@ This app includes a wide range of features to cover all aspects of your daily fi
 |:---:|:---:|:---:|
 | <img src="achievements.jpg" alt="Achievements" width="200"/> | | |
 
-## 🛠️ Tech Stack
-
-* **Language:** [Kotlin]
-* **Backend:** [Firebase]
-* **Maps API:** Google Maps API 
-* **Local Storage:** [Room]
-* **Cloud Storage:** [Firebase Firestore]
+* **Language:** Kotlin
+* **UI Toolkit:** Jetpack Compose
+* **Authentication:** Firebase Authentication
+* **Database:** Firebase Realtime Database / Cloud Firestore
+* **Architecture:** MVVM (Model-View-ViewModel)
+* **Maps:** Google Maps SDK for Android
 
 ## 📥 Installation
 
-1.  Clone the repository:
+1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/ghodkevrushabh/fitness-tracker-app.git](https://github.com/ghodkevrushabh/fitness-tracker-app.git)
     ```
-2.  Navigate to the project directory:
-    ```bash
-    cd fitness-tracker-app
-    ```
-3.  Install dependencies:
-    ```bash
-    # Example for Flutter
-    flutter pub get
-    # Example for Node/JS
-    npm install
-    ```
-4.  Run the app:
-    ```bash
-    flutter run
-    ```
+2.  **Open in Android Studio:**
+    * Open Android Studio.
+    * Select **File > Open** and navigate to the cloned directory.
+
+3.  **Firebase Setup:**
+    * Create a project in the [Firebase Console](https://console.firebase.google.com/).
+    * Add an Android app to your Firebase project using the package name (found in `AndroidManifest.xml` or `build.gradle`).
+    * Download the `google-services.json` file.
+    * Place `google-services.json` in the `app/` folder of the project.
+
+4.  **Build and Run:**
+    * Let Gradle sync completely.
+    * Connect a physical device or start an emulator.
+    * Click the **Run** button (green arrow) in Android Studio.
 
 ## 🤝 Contributing
 
