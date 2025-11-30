@@ -18,15 +18,15 @@ This app includes a wide range of features to cover all aspects of your daily fi
 
 | Login Page | Steps Dashboard | Running Map |
 |:---:|:---:|:---:|
-| <img src="login.png" alt="Login Page" width="200"/> | <img src="dashboard.png" alt="Steps Dashboard" width="200"/> | <img src="map_tracking.png" alt="Running Map" width="200"/> |
+| <img src="login.jpg" alt="Login Page" width="200"/> | <img src="dashboard.jpg" alt="Steps Dashboard" width="200"/> | <img src="map_tracking.jpg" alt="Running Map" width="200"/> |
 
 | Hydration Tracker | Weight Tracker | Profile |
 |:---:|:---:|:---:|
-| <img src="hydration.png" alt="Hydration Tracking" width="200"/> | <img src="weight.png" alt="Weight Tracker" width="200"/> | <img src="profilefit.png" alt="Profile" width="200"/> |
+| <img src="hydration.jpg" alt="Hydration Tracking" width="200"/> | <img src="weight.jpg" alt="Weight Tracker" width="200"/> | <img src="profilefit.jpg" alt="Profile" width="200"/> |
 
 | Achievements | | |
 |:---:|:---:|:---:|
-| <img src="achievements.png" alt="Achievements" width="200"/> | | |
+| <img src="achievements.jpg" alt="Achievements" width="200"/> | | |
 
 ## 🛠️ Tech Stack
 
